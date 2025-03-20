@@ -27,6 +27,8 @@ Relevant model information:
 -	Heat tolerance is modelled.
 -	Relationship between coral density (currently used 6.8m2) and number of 1YOEC:
 
+ ![equation](CScape_eq.png)
+
 This relationship is used to calculate number of 1YOEC that need to be produced.
 -	Relevant settings:
     -	Number of functional groups
