@@ -45,7 +45,7 @@ Relevant model information:
 -	Model assumes all species within one functional group to be one speciescan reproduce with each other which would likely – probably overestimates reproduction ratesuccess.
 -	Selection for Hheat tolerance is modelled.
 -	Relationship between coral density (currently used 6.8m2 for the deployment density) and number of 1YOEC:
-  
+  ![equation](CScape_eq.png)
 - This relationship is used to calculate number of 1YOEC that need to be produced for deployment.
 -	“Undeployed” 1YOEC
 -	If insufficient habitat extent is available in the selected reef at any deployment time, not all produced corals are deployed in C~scape, which can generates a sunk cost.
